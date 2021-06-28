@@ -37,8 +37,6 @@
 <!-- githubstats -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=katerebello&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katerebello&layout=compact&theme=gradient)](https://github.com/katerebello/github-readme-stats)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katerebello&layout=compact&theme=radical)
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=katerebello)](https://github.com/anuraghazra/github-readme-stats) -->
