@@ -1,8 +1,8 @@
 ### Heyyo 👋, I'm Kate Rebello! 
 <a href="mailto:katerebello27@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="mail" height="20" width="20" /></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/kate-rebello-a38235194" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="linkedIn" height="20" width="20" /></a> &nbsp;
-<a href="https://www.instagram.com/kate_rebello__/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/1384/1384063.png" alt="instagram" height="20" width="20" /></a> 
+<a href="https://www.linkedin.com/in/kate-rebello-a38235194" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="linkedIn" height="20" width="20" /></a> &nbsp;
+<a href="https://www.instagram.com/kate_rebello__/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670125.png" alt="instagram" height="20" width="20" /></a> 
 
 <!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]() -->
 
