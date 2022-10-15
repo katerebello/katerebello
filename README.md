@@ -10,7 +10,7 @@
 
 
 <!-- - 🔭 I’m currently working on ... -->
-- Currently a  Computer Engineering Student.
+
 - 🚀Passionate about learning new software development technologies.
 - 👨‍💻Experienced in Fullstack Development.
 - 💬 Ask me about Web Dev, App dev ...
